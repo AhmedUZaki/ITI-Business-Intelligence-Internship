@@ -8,7 +8,7 @@ This is a brief overview of what was learned during the internship at ITI Busine
 - Power BI.
 - Tableau.
 
-## Skills Acquired
+## Acquired Skills 
 
 - Create Databases using wizards.
 - Create DB diagrams.
